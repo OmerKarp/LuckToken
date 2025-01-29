@@ -1,4 +1,4 @@
-LUCK is a full-stack web3 decentralized lottery with a twist.
+LUCK is a full-stack, decentralized web3 lottery with a twist.
 Using the Chainlink VRFCoordinator for randomness. (because the blockchain is deterministic)
 
 LUCK is made out of 3 parts:
@@ -10,7 +10,7 @@ at the end of each lottery 10% of the price pool will go to the LUCK Bank and th
 The lottery is different every time with a changing difficulty level and changing elements to bet on, so it will feel fresh every time.
 3) LUCK Bank, the LUCK Bank is a smart contract that you can stake your LUCK tokens and get your share of ETH earned from the activity of the LUCK lottery, the LUCK Bank is accesible at the /stake page on the LUCK website.
 
-*Note that for now everything is only deployed on the Sepolia testnet*
+*Note that for now everything is only deployed on the Sepolia testnet!!!*
 
 LUCK Logo:
 
